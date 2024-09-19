@@ -48,4 +48,4 @@ sudo apt-get install libx11-dev libglog-dev libpng-dev
 ```
 
 ### Resources:
-- ![How X Window Managers Work and How to Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
+- ![How X Window Managers Work and How to Write One](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
